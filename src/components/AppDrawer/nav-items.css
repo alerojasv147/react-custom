@@ -1,0 +1,7 @@
+.menuLink {
+  text-decoration: none;
+}
+
+.active .menuItem {
+  background-color: #e8eaed;
+}
